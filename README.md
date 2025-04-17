@@ -36,14 +36,7 @@ Média de Frete 🚚
 
 
 Fonte de Dados 🔗
-Os dados utilizados nesta análise foram gentilmente fornecidos pelo Sr. João. Para garantir a transparência e rastreabilidade, os dados originais foram acessados através dos seguintes links do GitHub:
-
-"https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science/refs/heads/main/base-de-dados-challenge-1/loja_1.csv"
-"https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science/refs/heads/main/base-de-dados-challenge-1/loja_2.csv"
-"https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science/refs/heads/main/base-de-dados-challenge-1/loja_3.csv"
-"https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science/refs/heads/main/base-de-dados-challenge-1/loja_4.csv"
-
-
+Os dados utilizados nesta análise foram gentilmente fornecidos pelo Sr. João. Para garantir a transparência e rastreabilidade, 
 Os dados foram carregados e estruturados utilizando a biblioteca pandas em Python, permitindo uma análise eficiente e organizada.
 
 Bibliotecas Utilizadas 🛠️
