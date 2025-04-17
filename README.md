@@ -20,6 +20,19 @@ Potencial a Ser Explorado: As Lojas 2 e 3, com bases sólidas de clientes satisf
 Como Usar
 Explore este relatório para obter uma compreensão completa das análises e recomendações. Os insights são apresentados de forma clara e concisa, com visualizações geradas por código Python para ilustrar os principais pontos.
 
+Faturamento por loja
+![image](https://github.com/user-attachments/assets/d4b78969-b412-41e3-a9f6-e35aa82500a9)
+
+Distribuição do faturamento
+![image](https://github.com/user-attachments/assets/e50420d0-4e0b-409c-968b-6743a45361f4)
+
+Média de Avaliação
+![image](https://github.com/user-attachments/assets/3140de52-96d0-452b-a10f-ced6ff930194)
+
+Média de Frete
+![image](https://github.com/user-attachments/assets/98d5b4d8-de22-4e1a-adda-799c86583d06)
+
+
 
 Fonte de Dados 🔗
 Os dados utilizados nesta análise foram gentilmente fornecidos pelo Sr. João. Para garantir a transparência e rastreabilidade, os dados originais foram acessados através dos seguintes links do GitHub:
@@ -31,8 +44,6 @@ Os dados utilizados nesta análise foram gentilmente fornecidos pelo Sr. João. 
 
 
 Os dados foram carregados e estruturados utilizando a biblioteca pandas em Python, permitindo uma análise eficiente e organizada.
-![image](https://github.com/user-attachments/assets/5a2437bd-0527-445d-9408-63babf85ae0e)
-
 
 Bibliotecas Utilizadas 🛠️
 
